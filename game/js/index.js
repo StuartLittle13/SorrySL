@@ -5,7 +5,7 @@
 Sounds from http://soundfxnow.com, and http://www.soundjay.com
 Fonts from Google Fonts
 */
-(function($, window, undefined){
+(function ($, window, undefined){
 
   Hangman = {
     init: function(words){
